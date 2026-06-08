@@ -1,7 +1,3 @@
-Aquí tienes el archivo `README.md` personalizado para tu repositorio, integrando tu perfil profesional y la arquitectura técnica que hemos desarrollado.
-
----
-
 # Proto-AGI Hyperontology Engine
 
 **Author:** Christian Efraín Maldonado-Sifuentes (christianemaldonadomti)
