@@ -69,6 +69,9 @@ Rendering a 20,000+ node hyperontology globally causes client-side WebGL overflo
 
 *Live instance for peer review:* [trai-l.com/hyperonto/reader-math.php](https://trai-l.com/hyperonto/reader-math.php)
 
+![Alt Text](visualizer.png)
+![Alt Text](image.png)
+
 ## 📜 License
 
 This project is licensed under the MIT License.
